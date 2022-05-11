@@ -59,3 +59,4 @@ model = Sequential([
     layers.Dense(units=num_classes)
 ])
 ```
+用 GPU 訓練花了兩分鐘，也是挺久的。

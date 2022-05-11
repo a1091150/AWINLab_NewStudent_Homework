@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/aniruddha00707/simple-conv2d-model-tensorflow-14042022

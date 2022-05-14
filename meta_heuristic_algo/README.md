@@ -124,3 +124,12 @@ Hill Climbing: 1434
 Simulated Annealing: 1418
 
 ![](knapsack_iter.png)
+
+
+## 過程與心得
+這是我第一次聽到爬山演算法跟模擬退火演算法，我想說名字這麼潮又是解 knapsacl 01 問題鐵定很難。
+### Hill Climbing
+在理解 Hill Climbing algo 前一直有疑問，不使用 dynamic programming 如何取的全域最佳解，但是去了解之後發現只要局部最佳解即可。
+
+### Simulated Annealing
+之前的內容提到是將 Simulated Annealing 當作一種 Hill Climbing，實際上在選定隨機函數的部份是其關鍵的地方，我在這個作業就是簡單寫個 ```shouldAccept``` 直接解決

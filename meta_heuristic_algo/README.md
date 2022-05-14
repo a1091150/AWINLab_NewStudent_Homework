@@ -9,6 +9,8 @@
 第二及第三項實作於 ```machine_learning.ipynb```
 
 ## Dynamic Programming
+程式碼參考自: https://leetcode.com/problems/target-sum/discuss/1157060/01-knapsack
+
 Knapsack 01 屬於 NPC 問題，使用 Time Complexity 是 $\mathcal{O(nW)}$，其中 $n$ 為物件個數、$W$ 為背包承重，詳情見以前的演算法概論教課內容。
 
 ## Hill Climbing
